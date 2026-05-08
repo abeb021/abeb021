@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <div id="stat" align="center">
     <h2> ⚡ GitHub Stats </h2>
     <img height=150 src="https://github-readme-stats-three-omega-60.vercel.app/api?username=abeb021&hide=issues&show_icons=false&rank_icon=github&theme=dark" alt=""/>
